@@ -9,7 +9,6 @@ scalaVersion := "2.11.1"
 libraryDependencies ++= Seq(jdbc, anorm, cache, ws)
 
 libraryDependencies ++= Seq(
-	"org.julienrf"		%% "play-jsonp-filter" 		% "1.2",
 	"org.webjars"		%% "webjars-play" 			% "2.3.0-2",
 	"org.webjars" 		%  "bootstrap" 				% "3.1.1-2",
   	"org.webjars" 		%  "bootswatch-darkly"		% "3.3.1+2",
