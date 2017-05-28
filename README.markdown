@@ -1,5 +1,8 @@
+A [Giter8][g8] template to generate gravatar using email address with Play Framework!
+
+About
+-----
 # [Playing Gravatar Image](https://github.com/knoldus/playing-gravatar)
-A basic example to generate gravatar using email address with Play Framework
 
 [Gravatar](https://en.gravatar.com/support/what-is-gravatar/): An "avatar" is an image that represents you online—a little picture that appears next to your name when you interact with websites.
 
@@ -49,3 +52,14 @@ http://www.gravatar.com/avatar/00000000000000000000000000000000
 * [Bootswatch](http://bootswatch.com/darkly/)
 * [WebJars](http://www.webjars.org/)
 
+
+Template license
+----------------
+Written in ​ 2017​ by ​ [Knoldus Software LLP](http://knoldus.com)
+
+To the extent possible under law, the author(s) have dedicated all copyright and
+related
+and neighboring rights to this template to the public domain worldwide.
+This template is distributed without any warranty. See
+<http://creativecommons.org/publicdomain/zero/1.0/>.
+[g8]: http://www.foundweekends.org/giter8/
